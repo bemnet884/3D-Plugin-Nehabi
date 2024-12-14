@@ -74,10 +74,33 @@ Use the `[multiviewer]` shortcode to add a 3D model to your content.
 ## Admin Dashboard Features  
 
 The plugin includes a user-friendly admin page to generate shortcodes:  
-1. Choose the model type (Spline or Sketchfab).  
+1. Choose the model type (Spline or Sketchfab).
 2. Enter the model URL.  
 3. Adjust viewer properties like width, height, background, border, shadow, and padding.  
 4. Generate the shortcode instantly.  
+---
+---
+## URL Validation
+The plugin includes robust validation to ensure that only URLs from the supported platforms (Spline and Sketchfab) are accepted. This validation is implemented on the frontend using the following regex pattern:
+
+```javascript
+const srcInput = document.getElementById('src');
+const url = srcInput.value.trim();
+const errorMessage = document.getElementById('url-error');
+
+const validUrlPattern = /^(https:\/\/)([a-zA-Z0-9-]+\.)?(spline|sketchfab)\.com/;
+
+if (!validUrlPattern.test(url)) {
+    errorMessage.textContent = "Invalid URL. Please enter a URL from Spline or Sketchfab.";
+} else {
+    errorMessage.textContent = "";
+}
+```
+---
+
+This validation ensures that:
+- The URL starts with `https://`.
+- The domain is either `spline.com` or `sketchfab.com`.
 
 ---
 
