@@ -143,10 +143,12 @@ This validation ensures that:
 
 ## Author  
 
-**Your Name**  
+- **Registered email**: bemnet537@gmail.com
+- **Project name**: Multi-Viewer-3D-Plugin-Nehabi.
+- **Full name**: Bemnet Beyene Hameretibeb.
+- **GitHub URL**: https://github.com/bemnet884/.
 - [GitHub Profile](https://github.com/bemnet884/)  
 - [Contact Email](mailto:bemnet537@gmail.com)  
-
 ---
 
 ## License  
