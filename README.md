@@ -1,8 +1,8 @@
-# 3D Multi-Viewer Plugin for WordPress  
+# 3D Multi-Viewer Plugin for Nehabi  
 
 ## Description  
 
-The **3D Multi-Viewer Plugin** allows WordPress users to embed interactive 3D models seamlessly. This plugin supports models from **Spline** and **Sketchfab**, offering extensive customization options such as background color, borders, padding, and more. Built with user convenience in mind, it features a shortcode generator for easy integration and adjustable iframe properties.  
+The **3D Multi-Viewer Plugin** allows Nehabi users to embed interactive 3D models seamlessly. This plugin supports models from **Spline** and **Sketchfab**, offering extensive customization options such as background color, borders, padding, and more. Built with user convenience in mind, it features a shortcode generator for easy integration and adjustable iframe properties.  
 
 ---
 
@@ -13,7 +13,7 @@ The **3D Multi-Viewer Plugin** allows WordPress users to embed interactive 3D mo
   - Adjust background color, border, padding, and shadows.  
   - Set width and height to fit any layout.  
 - Admin dashboard with shortcode generator for effortless integration.  
-- Designed for smooth and secure embedding in WordPress.  
+- Designed for smooth and secure embedding in Nehabi.  
 
 ---
 

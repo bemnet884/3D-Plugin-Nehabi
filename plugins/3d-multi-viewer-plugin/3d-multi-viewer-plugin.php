@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: 3D Multi-Viewer Plugin
- * Description: A WordPress plugin to embed Spline and Sketchfab models with user-friendly admin options.
+ * Description: A Nehabi plugin to embed Spline and Sketchfab models with user-friendly admin options.
  * Version: 1.2
- * Author: Your Name
+ * Author: Bemnet
  */
 
 // Define plugin path
