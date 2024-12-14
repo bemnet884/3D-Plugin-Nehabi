@@ -1,0 +1,37 @@
+Log created: 2024-12-14 11:46:15
+Type: backup
+[2024-12-14 11:46:15][notice]Start backing up.
+[2024-12-14 11:46:15][notice]server info fcgi:Off max execution time: 300 wp version:6.7.1 php version:8.2.23 db version:8.0.16 php ini:safe_mode: memory_limit:256M memory_get_usage:3.16 MB memory_get_peak_usage:3.29 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-12-14 11:46:15][notice]Prepare to backup backup_themes files.
+[2024-12-14 11:46:15][notice]Compressing zip file:localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_themes.part001.zip index:390
+[2024-12-14 11:46:17][notice]Compressing zip file:localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_themes.part001.zip success. index:390 file size:12.57 MB
+[2024-12-14 11:46:17][notice]Backing up backup_themes completed.
+[2024-12-14 11:46:17][notice]Prepare to backup backup_plugin files.
+[2024-12-14 11:46:17][notice]Compressing zip file:localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_plugin.part001.zip index:5
+[2024-12-14 11:46:17][notice]Compressing zip file:localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_plugin.part001.zip success. index:5 file size:3.49 KB
+[2024-12-14 11:46:17][notice]Backing up backup_plugin completed.
+[2024-12-14 11:46:17][notice]Prepare to backup backup_uploads files.
+[2024-12-14 11:46:17][notice]Compressing zip file:localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_uploads.part001.zip index:2
+[2024-12-14 11:46:17][notice]Compressing zip file:localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_uploads.part001.zip success. index:2 file size:690.00 B
+[2024-12-14 11:46:17][notice]Backing up backup_uploads completed.
+[2024-12-14 11:46:17][notice]Prepare to backup backup_content files.
+[2024-12-14 11:46:17][notice]Compressing zip file:localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_content.part001.zip index:2
+[2024-12-14 11:46:17][notice]Compressing zip file:localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_content.part001.zip success. index:2 file size:704.00 B
+[2024-12-14 11:46:17][notice]Backing up backup_content completed.
+[2024-12-14 11:46:17][notice]Prepare to backup backup_core files.
+[2024-12-14 11:46:17][notice]Compressing zip file:localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_core.part001.zip index:2798
+[2024-12-14 11:46:24][notice]Compressing zip file:localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_core.part001.zip success. index:2798 file size:14.35 MB
+[2024-12-14 11:46:24][notice]Backing up backup_core completed.
+[2024-12-14 11:46:24][notice]Prepare to backup backup_merge files.
+[2024-12-14 11:46:24][notice]Prepare to zip file. file: localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_themes.zip
+[2024-12-14 11:46:25][notice]Adding zip files completed.localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_all.part001.zip, filesize: 12.52 MB
+[2024-12-14 11:46:25][notice]Prepare to zip file. file: localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_plugin.zip
+[2024-12-14 11:46:25][notice]Adding zip files completed.localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_all.part001.zip, filesize: 12.52 MB
+[2024-12-14 11:46:25][notice]Prepare to zip file. file: localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_uploads.zip
+[2024-12-14 11:46:25][notice]Adding zip files completed.localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_all.part001.zip, filesize: 12.52 MB
+[2024-12-14 11:46:25][notice]Prepare to zip file. file: localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_content.zip
+[2024-12-14 11:46:25][notice]Adding zip files completed.localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_all.part001.zip, filesize: 12.52 MB
+[2024-12-14 11:46:25][notice]Prepare to zip file. file: localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_core.zip
+[2024-12-14 11:46:25][notice]Adding zip files completed.localhost_wpvivid-4939e9325a116_2024-12-14-11-46_backup_all.part001.zip, filesize: 26.46 MB
+[2024-12-14 11:46:26][notice]Backing up backup_merge completed.
+[2024-12-14 11:46:26][notice]Backup completed.
