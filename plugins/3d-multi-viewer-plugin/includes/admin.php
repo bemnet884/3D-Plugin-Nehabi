@@ -132,6 +132,12 @@ function multi_viewer_admin_page() {
     const validUrlPattern = /^(https:\/\/)([a-zA-Z0-9-]+\.)?(spline|sketchfab)\.com/;
 
     if (!validUrlPattern.test(url)) {
+      errorMessage.textContent = "Invalid URL. Please enter a URL from Spline or Sketchfab.";
+    } else {
+      errorMessage.textContent = "";
+    }
+
+    if (!validUrlPattern.test(url)) {
       errorMessage.style.display = 'block';
       srcInput.focus();
       return; // Prevent further execution if URL is invalid
