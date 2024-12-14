@@ -20,7 +20,7 @@ The **3D Multi-Viewer Plugin** allows WordPress users to embed interactive 3D mo
 ## Demo and Walkthrough  
 
 ### Live Demo:  
-View live examples of embedded models [here](http://hanna.freesite.online/6-2/)/[here](http://hanna.freesite.online/).  
+View live examples of embedded models [here](http://hanna.freesite.online/6-2/) or [here](http://hanna.freesite.online/).  
 
 ### Walkthrough:  
 Watch a step-by-step guide to embedding models [here](https://app.supademo.com/demo/cm4ny1waw1138wf117m4ydzbt).  
@@ -29,7 +29,7 @@ Watch a step-by-step guide to embedding models [here](https://app.supademo.com/d
 
 ## Installation  
 
-1. [Download the plugin ZIP file here](https://drive.google.com/file/d/1W3L1hywaNRuyWJyFj4D0ePbk5ea1IiZc/view?usp=drive_link).  
+1. [Download the plugin ZIP file here](https://drive.google.com/file/d/12Zc7T7MzhKgGoErdBDamqFdMXMYDQujM/view?usp=drive_link).  
 2. Log in to your WordPress admin dashboard.  
 3. Navigate to **Plugins > Add New** and click **Upload Plugin**.  
 4. Select the downloaded ZIP file and click **Install Now**.  
