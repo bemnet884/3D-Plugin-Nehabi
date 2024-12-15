@@ -29,7 +29,7 @@ Watch a step-by-step guide to embedding models [here](https://app.supademo.com/d
 
 ## Installation  
 
-1. [Download the plugin ZIP file here](https://drive.google.com/file/d/1XtMv_OTQN3FtTqh2FpZonTpzFgPBrFN-/view?usp=drive_link).  
+1. [Download the plugin ZIP file here](https://drive.google.com/file/d/1vXC547qK3UuZuPfo2EbA2P0RdROVgMwQ/view?usp=drive_link).  
 2. Log in to your WordPress admin dashboard.  
 3. Navigate to **Plugins > Add New** and click **Upload Plugin**.  
 4. Select the downloaded ZIP file and click **Install Now**.  
