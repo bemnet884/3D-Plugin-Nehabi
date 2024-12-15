@@ -129,13 +129,7 @@ function multi_viewer_admin_page() {
     const url = srcInput.value.trim();
     const errorMessage = document.getElementById('url-error');
 
-    const validUrlPattern = /^(https:\/\/)([a-zA-Z0-9-]+\.)?(spline|sketchfab)\.com/;
-
-    if (!validUrlPattern.test(url)) {
-      errorMessage.textContent = "Invalid URL. Please enter a URL from Spline or Sketchfab.";
-    } else {
-      errorMessage.textContent = "";
-    }
+    const validUrlPattern = /^(https:\/\/)([a-zA-Z0-9-]+\.)?(spline|sketchfab)\.(design|com)/;
 
     if (!validUrlPattern.test(url)) {
       errorMessage.style.display = 'block';
