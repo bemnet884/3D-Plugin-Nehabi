@@ -88,13 +88,15 @@ const srcInput = document.getElementById('src');
 const url = srcInput.value.trim();
 const errorMessage = document.getElementById('url-error');
 
-const validUrlPattern = /^(https:\/\/)([a-zA-Z0-9-]+\.)?(spline|sketchfab)\.com/;
+    const validUrlPattern = /^(https:\/\/)([a-zA-Z0-9-]+\.)?(spline|sketchfab)\.(design|com)/;
 
-if (!validUrlPattern.test(url)) {
-    errorMessage.textContent = "Invalid URL. Please enter a URL from Spline or Sketchfab.";
-} else {
-    errorMessage.textContent = "";
-}
+    if (!validUrlPattern.test(url)) {
+      errorMessage.style.display = 'block';
+      srcInput.focus();
+      return;
+    } else {
+      errorMessage.style.display = 'none';
+    }
 ```
 ---
 
