@@ -23,7 +23,7 @@ The **3D Multi-Viewer Plugin** allows Nehabi users to embed interactive 3D model
 View live examples of embedded models [here](http://hanna.freesite.online/6-2/) or [here](http://hanna.freesite.online/).  
 
 ### Walkthrough:  
-Watch a step-by-step guide to embedding models [here](https://app.supademo.com/demo/cm4ny1waw1138wf117m4ydzbt).  
+Watch a step-by-step guide to embedding models [here]([https://app.supademo.com/demo/cm4ny1waw1138wf117m4ydzbt](https://app.supademo.com/demo/cm4pbksdn15htwf119k1gk02z)).  
 
 ---
 
