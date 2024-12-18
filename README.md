@@ -68,23 +68,6 @@ Use the `[multiviewer]` shortcode to add a 3D model to your content.
 ```plaintext  
 [multiviewer type="sketchfab" src="https://sketchfab.com/models/example-id/embed" width="800px" height="600px" border="1px solid #000"]  
 ```  
-
----
-## Additional Notes on Customizations  
-
-Some customizations for the embedded 3D models may need to be done on the respective platforms (Spline or Sketchfab) and may require premium subscriptions.  
-
-### Specific Considerations:  
-
-- **Spline**:  
-  - To remove the Spline logo or watermark from the embedded models, you must make adjustments within the Spline platform. This option might only be available to users with a premium subscription.  
-  - Background removal and other customization options should also be configured directly in Spline before embedding the model.  
-
-- **Sketchfab**:  
-  - Buttons like fullscreen, annotations, or Sketchfab branding in the viewer can only be customized through Sketchfab's settings. Some of these features may also require a premium account.  
-
-These platform-specific customizations cannot be managed directly through the plugin and must be configured externally before embedding the models.  
-
 ---
 
 ## Admin Dashboard Features  
@@ -94,7 +77,6 @@ The plugin includes a user-friendly admin page to generate shortcodes:
 2. Enter the model URL.  
 3. Adjust viewer properties like width, height, background, border, shadow, and padding.  
 4. Generate the shortcode instantly.  
----
 ---
 ## URL Validation
 The plugin includes robust validation to ensure that only URLs from the supported platforms (Spline and Sketchfab) are accepted. This validation is implemented on the frontend using the following regex pattern:
@@ -131,7 +113,24 @@ This validation ensures that:
      - Ensuring secure and seamless extraction workflows.  
   2. **Security Concerns**: Risks associated with file uploads.  
   3. **Performance Issues**: Potential resource consumption on shared hosting environments.  
-  4. **Time Constraints**: Prioritizing stable features for this release.  
+  4. **Time Constraints**: Prioritizing stable features for this release.
+ 
+---
+## Additional Notes on Customizations  
+
+Some customizations for the embedded 3D models may need to be done on the respective platforms (Spline or Sketchfab) and may require premium subscriptions.  
+
+### Specific Considerations:  
+
+- **Spline**:  
+  - To remove the Spline logo or watermark from the embedded models, you must make adjustments within the Spline platform. This option might only be available to users with a premium subscription.  
+  - Background removal and other customization options should also be configured directly in Spline before embedding the model.  
+
+- **Sketchfab**:  
+  - Buttons like fullscreen, annotations, or Sketchfab branding in the viewer can only be customized through Sketchfab's settings. Some of these features may also require a premium account.  
+
+These platform-specific customizations cannot be managed directly through the plugin and must be configured externally before embedding the models.  
+ 
 ---
 
 ## Future Updates  
