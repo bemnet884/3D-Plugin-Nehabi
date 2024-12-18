@@ -70,6 +70,22 @@ Use the `[multiviewer]` shortcode to add a 3D model to your content.
 ```  
 
 ---
+## Additional Notes on Customizations  
+
+Some customizations for the embedded 3D models may need to be done on the respective platforms (Spline or Sketchfab) and may require premium subscriptions.  
+
+### Specific Considerations:  
+
+- **Spline**:  
+  - To remove the Spline logo or watermark from the embedded models, you must make adjustments within the Spline platform. This option might only be available to users with a premium subscription.  
+  - Background removal and other customization options should also be configured directly in Spline before embedding the model.  
+
+- **Sketchfab**:  
+  - Buttons like fullscreen, annotations, or Sketchfab branding in the viewer can only be customized through Sketchfab's settings. Some of these features may also require a premium account.  
+
+These platform-specific customizations cannot be managed directly through the plugin and must be configured externally before embedding the models.  
+
+---
 
 ## Admin Dashboard Features  
 
