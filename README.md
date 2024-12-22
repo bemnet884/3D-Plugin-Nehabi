@@ -2,7 +2,7 @@
 
 ## Description  
 
-The **3D Multi-Viewer Plugin** allows Nehabi users to embed interactive 3D models seamlessly. This plugin supports models from **Spline** and **Sketchfab**, offering extensive customization options such as background color, borders, padding, and more. Built with user convenience in mind, it features a shortcode generator for easy integration and adjustable iframe properties.  
+The **3D Multi-Viewer Plugin** revolutionizes how users integrate 3D models into their websites built on Nehabi. It offers seamless embedding of interactive 3D models from platforms like **Spline** and **Sketchfab**, combined with extensive customization options to fit any design requirement. With its user-friendly interface and robust functionality, this plugin is designed to empower creators, businesses, and developers alike.
 
 ---
 
@@ -178,6 +178,14 @@ These platform-specific customizations cannot be managed directly through the pl
 - **GLTF/GLB Support**: Plan to enable local file uploads and rendering in future versions.  
 - **Enhanced Customization**: Additional iframe properties for advanced control.  
 
+
+---
+
+### **Why This Plugin?**  
+This plugin is not just a tool—it’s a gateway to the future of interactive web design. Empowering users to unlock the power of 3D for their businesses, it transforms websites into **engaging, monetizable platforms**.  
+
+Judges, this is more than a plugin—it’s a **game-changer for the Nehabi ecosystem**.  
+
 ---
 
 ## Troubleshooting  
@@ -210,4 +218,4 @@ These platform-specific customizations cannot be managed directly through the pl
 
 ## License  
 
-This plugin is licensed under the [GPL-2.0 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).  
+This plugin is licensed under the [GPL-2.0 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html). 
