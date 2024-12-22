@@ -153,7 +153,7 @@ By integrating with Nehabi, the plugin doesn’t just enhance features—it crea
 
 Some customizations for the embedded 3D models may need to be done on the respective platforms (Spline or Sketchfab) and may require premium subscriptions.  
 
-###🎯 Specific Considerations:  
+### 🎯 Specific Considerations:  
 
 - **Spline**:  
   - To remove the Spline logo or watermark from the embedded models, you must make adjustments within the Spline platform. This option might only be available to users with a premium subscription.  
