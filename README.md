@@ -1,4 +1,4 @@
-# 3D Multi-Viewer Plugin for Nehabi  
+# 🖼️ 3D Multi-Viewer Plugin for Nehabi  
 
 ## Description  
 
@@ -6,7 +6,7 @@ The **3D Multi-Viewer Plugin** revolutionizes how users integrate 3D models into
 
 ---
 
-## Features  
+## ⭐ Features  
 
 - Embed 3D models from **Spline** and **Sketchfab** using simple shortcodes.  
 - Extensive customization:
@@ -17,7 +17,7 @@ The **3D Multi-Viewer Plugin** revolutionizes how users integrate 3D models into
 
 ---
 
-## Demo and Walkthrough  
+## 👀 Demo and Walkthrough  
 
 ### Live Demo:  
 View live examples of embedded models [here](http://hanna.freesite.online/6-2/) or [here](http://hanna.freesite.online/).  
@@ -27,7 +27,7 @@ Watch a step-by-step guide to embedding models [here](https://app.supademo.com/d
 
 ---
 
-## Installation  
+## 📥 Installation  
 
 1. Download "3d-multi-viewer-plugin" the plugin ZIP file [here](https://drive.google.com/file/d/1t_ifCi_kAIiCanUTHsO28ABcgjpY3nxf/view?usp=drive_link).  
 2. Log in to your WordPress admin dashboard.  
@@ -37,7 +37,7 @@ Watch a step-by-step guide to embedding models [here](https://app.supademo.com/d
 
 ---
 
-## Usage  
+## ⚙️ Usage  
 
 ### Embedding Models:  
 Use the `[multiviewer]` shortcode to add a 3D model to your content.  
@@ -70,7 +70,7 @@ Use the `[multiviewer]` shortcode to add a 3D model to your content.
 ```  
 ---
 
-## Admin Dashboard Features  
+## 🖱️ Admin Dashboard Features  
 
 The plugin includes a user-friendly admin page to generate shortcodes:  
 1. Choose the model type (Spline or Sketchfab).
@@ -79,7 +79,7 @@ The plugin includes a user-friendly admin page to generate shortcodes:
 4. Generate the shortcode instantly.  
 ---
 
-## **URL Validation**  
+## **✅ URL Validation**  
 
 The plugin ensures secure and seamless embedding of 3D models by validating URLs from trusted platforms (**Spline** and **Sketchfab**) before they are accepted. This robust validation process guarantees that only supported and secure URLs are used, protecting users from errors or malicious content.  
 
@@ -91,7 +91,7 @@ The plugin ensures secure and seamless embedding of 3D models by validating URLs
 This validation process reinforces the plugin’s reliability and prioritizes user trust by ensuring the integrity of embedded content.  
 
 --- 
-## **🌟 How This Plugin Generates Income**  
+## **💰 How This Plugin Generates Income**  
 
 ### **1. Direct Monetization:**  
 - **3D Content Marketplace:** The plugin can integrate a marketplace directly within Nehabi, enabling users to **buy and sell 3D models, animations, or templates**. Creators can list their digital assets while the platform takes a commission on every transaction.  
@@ -107,7 +107,7 @@ This validation process reinforces the plugin’s reliability and prioritizes us
 
 ---
 
-## **💡 Use Cases: Transforming Industries with 3D Integration**  
+## **🌍 Use Cases: Transforming Industries with 3D Integration**  
 
 The **3D Multi-Viewer Plugin** empowers users across diverse industries:  
 
@@ -124,7 +124,7 @@ From e-commerce to healthcare, this plugin transforms websites with immersive 3D
 
 ---
 
-## **🎯 Beyond the Contest: Long-Term Revenue from 3D**  
+## **🚀 Beyond the Contest: Long-Term Revenue from 3D**  
 
 The plugin is not just a tool; it’s a **foundation for a scalable platform**:  
 1. **3D Model Subscription Platform:** Build a library of high-quality, reusable 3D assets. Charge users for access or downloads.  
@@ -137,7 +137,7 @@ By integrating with Nehabi, the plugin doesn’t just enhance features—it crea
 ---
 
 
-## Known Limitations  
+## 📌 Known Limitations  
 
 - **Current Support**: Spline and Sketchfab models only.  
 - **Excluded Formats**: Local GLTF/GLB files are not supported yet, due to:  
@@ -149,11 +149,11 @@ By integrating with Nehabi, the plugin doesn’t just enhance features—it crea
   4. **Time Constraints**: Prioritizing stable features for this release.
  
 ---
-## Additional Notes on Customizations  
+## 📝 Additional Notes on Customizations  
 
 Some customizations for the embedded 3D models may need to be done on the respective platforms (Spline or Sketchfab) and may require premium subscriptions.  
 
-### Specific Considerations:  
+###🎯 Specific Considerations:  
 
 - **Spline**:  
   - To remove the Spline logo or watermark from the embedded models, you must make adjustments within the Spline platform. This option might only be available to users with a premium subscription.  
@@ -165,7 +165,7 @@ Some customizations for the embedded 3D models may need to be done on the respec
 These platform-specific customizations cannot be managed directly through the plugin and must be configured externally before embedding the models.  
  
 ---
-## **Future Enhancements**  
+## **⏩ Future Enhancements**  
 
 - **Support for Local Files (GLTF/GLB):**  
   Planned for future versions, enabling users to upload and render local 3D models.  
@@ -178,21 +178,21 @@ These platform-specific customizations cannot be managed directly through the pl
 
 ---
 
-### **Why This Plugin?**  
+### **❓ Why This Plugin?**  
 This plugin is not just a tool—it’s a gateway to the future of interactive web design. Empowering users to unlock the power of 3D for their businesses, it transforms websites into **engaging, monetizable platforms**.  
 
 Judges, this is more than a plugin—it’s a **game-changer for the Nehabi ecosystem**.  
 
 ---
 
-## Troubleshooting  
+## 🛠️ Troubleshooting  
 
 - **Model not displaying**: Ensure the model URL is correct and accessible.  
 - **Background issues (Spline)**: Disable the background in Spline before embedding (refer to the [walkthrough](https://app.supademo.com/demo/cm4nxyod9112uwf11ol7ugfuy)).  
 
 ---
 
-## Changelog  
+##📜 Changelog  
 
 ### Version 1.2  
 - Added shortcode attributes for `background`, `border`, `shadow`, and `padding`.  
@@ -203,7 +203,7 @@ Judges, this is more than a plugin—it’s a **game-changer for the Nehabi ecos
 
 ---
 
-## Author  
+##✍️ Author  
 
 - **Registered email**: bemnet537@gmail.com
 - **Project name**: Multi-Viewer-3D-Plugin-Nehabi.
@@ -213,6 +213,6 @@ Judges, this is more than a plugin—it’s a **game-changer for the Nehabi ecos
 - [Contact Email](mailto:bemnet537@gmail.com)  
 ---
 
-## License  
+##🔓 License  
 
 This plugin is licensed under the [GPL-2.0 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html). 
