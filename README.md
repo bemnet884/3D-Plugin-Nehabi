@@ -78,32 +78,19 @@ The plugin includes a user-friendly admin page to generate shortcodes:
 3. Adjust viewer properties like width, height, background, border, shadow, and padding.  
 4. Generate the shortcode instantly.  
 ---
-## URL Validation
-The plugin includes robust validation to ensure that only URLs from the supported platforms (Spline and Sketchfab) are accepted. This validation is implemented on the frontend using the following regex pattern:
 
-```javascript
-const srcInput = document.getElementById('src');
-const url = srcInput.value.trim();
-const errorMessage = document.getElementById('url-error');
+## **URL Validation**  
 
-    const validUrlPattern = /^(https:\/\/)([a-zA-Z0-9-]+\.)?(spline|sketchfab)\.(design|com)/;
+The plugin ensures secure and seamless embedding of 3D models by validating URLs from trusted platforms (**Spline** and **Sketchfab**) before they are accepted. This robust validation process guarantees that only supported and secure URLs are used, protecting users from errors or malicious content.  
 
-    if (!validUrlPattern.test(url)) {
-      errorMessage.style.display = 'block';
-      srcInput.focus();
-      return;
-    } else {
-      errorMessage.style.display = 'none';
-    }
-```
----
+### **Key Features of URL Validation**  
+- **Secure Protocol**: Only URLs starting with `https://` are accepted, ensuring encrypted and secure data transmission.  
+- **Platform-Specific Validation**: Ensures the domain belongs to either `spline.design` or `sketchfab.com`, avoiding unsupported or harmful links.  
+- **Error Handling**: If an invalid URL is detected, users receive clear error messages, making the process intuitive and user-friendly.  
 
-This validation ensures that:
-- The URL starts with `https://`.
-- The domain is either `spline.com` or `sketchfab.com`.
+This validation process reinforces the plugin’s reliability and prioritizes user trust by ensuring the integrity of embedded content.  
 
----
-
+--- 
 ## **🌟 How This Plugin Generates Income**  
 
 ### **1. Direct Monetization:**  
@@ -120,14 +107,20 @@ This validation ensures that:
 
 ---
 
-## **💡 Use Case: Elevating 3D Integration in Website Design**  
+## **💡 Use Cases: Transforming Industries with 3D Integration**  
 
-Imagine a **boutique jewelry store** launching its website using Nehabi:  
-1. The plugin enables the store to showcase **rotatable 3D models of products**. Customers can zoom in, rotate, and interact with items, creating a lifelike shopping experience.  
-2. Using **augmented reality**, the plugin allows customers to visualize products (like rings or necklaces) in real-world environments before purchase.  
-3. Through the built-in marketplace, the jewelry store can sell its exclusive 3D designs to other businesses, expanding its revenue stream.  
+The **3D Multi-Viewer Plugin** empowers users across diverse industries:  
 
-This enhanced interactivity drives **customer engagement**, reduces returns, and increases conversions—proving the plugin's potential for businesses across industries like e-commerce, architecture, and education.  
+- **E-Commerce**: Showcase rotatable 3D product views and enable AR visualization.  
+- **Real Estate**: Present 3D property walkthroughs and floor plans.  
+- **Education**: Embed interactive 3D models for enhanced learning experiences.  
+- **Design Portfolios**: Display 3D artworks and prototypes.  
+- **Gaming**: Highlight in-game assets and 3D environments.  
+- **Manufacturing**: Visualize prototypes and machinery components.  
+- **Marketing**: Create engaging 3D product demos and advertisements.  
+- **Healthcare**: Use 3D models for patient education and surgical planning.  
+
+From e-commerce to healthcare, this plugin transforms websites with immersive 3D interactivity, making it a versatile tool for innovation.  
 
 ---
 
@@ -172,12 +165,16 @@ Some customizations for the embedded 3D models may need to be done on the respec
 These platform-specific customizations cannot be managed directly through the plugin and must be configured externally before embedding the models.  
  
 ---
+## **Future Enhancements**  
 
-## Future Updates  
+- **Support for Local Files (GLTF/GLB):**  
+  Planned for future versions, enabling users to upload and render local 3D models.  
 
-- **GLTF/GLB Support**: Plan to enable local file uploads and rendering in future versions.  
-- **Enhanced Customization**: Additional iframe properties for advanced control.  
+- **AR/VR Interactivity:**  
+  Expand functionality for immersive, next-gen web experiences.  
 
+- **Advanced Styling Options:**  
+  Additional iframe properties for precise control.  
 
 ---
 
