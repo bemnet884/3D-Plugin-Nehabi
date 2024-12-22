@@ -192,7 +192,7 @@ Judges, this is more than a plugin—it’s a **game-changer for the Nehabi ecos
 
 ---
 
-##📜 Changelog  
+## 📜 Changelog  
 
 ### Version 1.2  
 - Added shortcode attributes for `background`, `border`, `shadow`, and `padding`.  
@@ -203,7 +203,7 @@ Judges, this is more than a plugin—it’s a **game-changer for the Nehabi ecos
 
 ---
 
-##✍️ Author  
+## ✍️ Author  
 
 - **Registered email**: bemnet537@gmail.com
 - **Project name**: Multi-Viewer-3D-Plugin-Nehabi.
@@ -213,6 +213,6 @@ Judges, this is more than a plugin—it’s a **game-changer for the Nehabi ecos
 - [Contact Email](mailto:bemnet537@gmail.com)  
 ---
 
-##🔓 License  
+## 🔓 License  
 
 This plugin is licensed under the [GPL-2.0 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html). 
