@@ -188,7 +188,7 @@ Judges, this is more than a plugin—it’s a **game-changer for the Nehabi ecos
 ## 🛠️ Troubleshooting  
 
 - **Model not displaying**: Ensure the model URL is correct and accessible.  
-- **Background issues (Spline or Sketchfab)**: Disable the background in Spline or sketchfab before embedding (refer to the walkthrough for [spline](https://app.supademo.com/demo/cm4nxyod9112uwf11ol7ugfuy) or [Sketchfab](https://app.supademo.com/demo/cm4nzos1n11ncwf112g5nm4ky)).  
+- **Background issues (Spline or Sketchfab)**: Disable the background in Spline or sketchfab before embedding. (refer to the walkthrough for [Spline](https://app.supademo.com/demo/cm4nxyod9112uwf11ol7ugfuy) or [Sketchfab](https://app.supademo.com/demo/cm4nzos1n11ncwf112g5nm4ky) ).  
 
 ---
 
