@@ -181,8 +181,6 @@ These platform-specific customizations cannot be managed directly through the pl
 ### **❓ Why This Plugin?**  
 This plugin is not just a tool—it’s a gateway to the future of interactive web design. Empowering users to unlock the power of 3D for their businesses, it transforms websites into **engaging, monetizable platforms**.  
 
-Judges, this is more than a plugin—it’s a **game-changer for the Nehabi ecosystem**.  
-
 ---
 
 ## 🛠️ Troubleshooting  
